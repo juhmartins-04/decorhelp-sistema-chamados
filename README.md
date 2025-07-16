@@ -50,8 +50,6 @@ Facilitar a comunicação entre os colaboradores e os setores de suporte e TI da
 
 ## 📷 Capturas de Tela
 
-| Tela Inicial | Abertura de Chamado | Lista de Chamados | Plugins |
-|--------------|---------------------|-------------------|---------|
 | ![Inicial](./prints/tela-inicial.png) | ![Abertura](./prints/abertura-chamado.png) | ![Lista](./prints/lista-chamados.png) | ![Plugins](./prints/plugins.png) |
 
 ---
@@ -94,4 +92,4 @@ Facilitar a comunicação entre os colaboradores e os setores de suporte e TI da
 
 ---
 
-Feito com 💙 por [Julia Martins](https://github.com/seu-usuario)
+Feito com 💙 por [Julia Martins](https://github.com/juhmartins-04)
